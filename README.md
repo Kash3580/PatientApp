@@ -4,7 +4,7 @@ This applicated is created with basic CRUD operation.
 
 To run this application use `docker-compose.yml` file
 
-## update environment variable
+## Update environment variable
 
 Below are the required variables need to setup to run the application
 
@@ -30,7 +30,7 @@ Here are the steps:
 5. Enter Database name and collection name (Collection name must be `users` by default to run this application)
 6. Once you create database and collection, get the connection string from dashboard and update in `docker-compose.yml`
 
-### If you want to change the default port then update in `docker-compose.yml` under `Ports`
+#### If you want to change the default port then update in `docker-compose.yml` under `Ports`
 
 ### How to run docker compose
 
