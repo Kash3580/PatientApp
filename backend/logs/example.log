@@ -1,0 +1,2130 @@
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  label: 'winston',
+  timestamp: 'Apr-25-2023 12:24:38'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  label: 'winston',
+  timestamp: 'Apr-25-2023 12:24:39'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  label: 'winston',
+  timestamp: 'Apr-25-2023 12:24:40'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:24:58'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:24:58'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 12:24:59'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:27:36'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:27:40'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:27:40'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 12:27:41'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:27:46'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:27:49'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:27:49'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 12:27:51'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:28:49'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:28:51'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:28:54'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:28:54'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 12:28:55'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:29:00'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:29:03'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:29:03'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 12:29:04'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:29:18'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:29:21'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:29:21'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 12:29:23'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:30:26'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:30:29'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 12:30:29'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 12:30:31'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 13:12:22'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:12:25'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:12:25'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 13:12:26'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 13:12:48'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:12:50'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:12:50'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 13:12:51'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 13:18:33'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:18:37'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:18:37'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 13:18:38'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 13:18:42'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:18:45'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:18:46'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 13:18:47'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 13:18:49'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:18:52'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 13:18:52'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 13:18:53'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:21:09'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:21:17'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:21:19'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:21:41'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:21:43'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:22:38'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:22:53'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:22:54'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:23:09'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:23:29'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:23:30'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:24:24'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:24:35'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:24:36'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:24:57'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:25:16'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:25:18'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:26:10'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:26:32'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:26:33'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:27:16'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:27:20'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:27:26'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:27:27'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:27:53'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:28:12'
+}
+{
+  level: 'debug',
+  message: 'patients.updateOne',
+  timestamp: 'Apr-25-2023 13:28:12'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:28:14'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:28:42'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:55:18'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:55:19'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:55:22'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 13:56:40'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 13:56:41'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:25:50'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 15:25:54'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 15:25:54'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 15:25:55'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:32:28'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 15:32:31'
+}
+{
+  level: 'debug',
+  message: 'patients.createIndex',
+  timestamp: 'Apr-25-2023 15:32:32'
+}
+{
+  level: 'debug',
+  message: 'users.createIndex',
+  timestamp: 'Apr-25-2023 15:32:33'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:32:34'
+}
+{
+  level: 'debug',
+  message: 'users.findOne',
+  timestamp: 'Apr-25-2023 15:32:34'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQxNjk1NSwiZXhwIjoxNjgyNDI0MTU1fQ.DSr3NlnhSeXgrGAezEtEyv5Ly3DxkROt_6-FgxOxVVs',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:32:35'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 15:32:35'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 15:32:35'
+}
+{
+  message: 'Request: GET /patientS',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:32:36'
+}
+{
+  level: 'debug',
+  message: 'patients.find',
+  timestamp: 'Apr-25-2023 15:32:36'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:32:36'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:16'
+}
+{
+  message: 'Request: PUT /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:26'
+}
+{
+  message: 'Patient updated successfully. Email:c0a5a346ee6ecc5b973c249f3f294d405915aa3369a2391b114a75f7880dc6df|7ccc88e7365a282a94a45f9352e8823a',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:26'
+}
+{
+  message: 'Request: GET /patientS',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:28'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:28'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:52'
+}
+{
+  message: 'Request: PUT /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:57'
+}
+{
+  message: 'Patient updated successfully. Email:c0a5a346ee6ecc5b973c249f3f294d405915aa3369a2391b114a75f7880dc6df|7ccc88e7365a282a94a45f9352e8823a',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:57'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:59'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:33:59'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:34:31'
+}
+{
+  message: 'Request: PUT /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:34:34'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:34:36'
+}
+{
+  message: 'Patient updated successfully. Email:kashtest3@gmail.com',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:34:36'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:34:36'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:34:42'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:35:04'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:35:34'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:36:01'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:36:09'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 15:36:10'
+}
+undefined
+undefined
+undefined
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:36:52'
+}
+undefined
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:37:09'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:37:50'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:38:12'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:38:18'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 15:38:19'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:38:26'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQxNzMwNiwiZXhwIjoxNjgyNDI0NTA2fQ.uH78SJuu19EHkHdDTKQ0-nv0fTp-PaafrYV5marLW_s',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:38:26'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 15:38:26'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 15:38:26'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:38:27'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:38:28'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:39:07'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:39:10'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:39:21'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:39:24'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:08'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:10'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:13'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:23'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:25'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:36'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:39'
+}
+{
+  message: 'Request: PUT /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:52'
+}
+{
+  message: 'Patient updated successfully. Email:1a6797933f9a2173b32499f2c4112a0078453d709315af1159e18d5c82d757c8|07a2e4a57af04f8525ce70d56d06bbe1',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:52'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:54'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:54'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:56'
+}
+{
+  message: 'Patient record deleted successfully.5e3539b50d781287d705ade1c12782a9d31e6efb85d7dff1ab38b0564188f216|ef34e9cc118c573065b31391ab5890cc',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:57'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:57'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:40:57'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:01:54'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:01:57'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:02:02'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQxODcyMywiZXhwIjoxNjgyNDI1OTIzfQ.f5uzKTO5SW1ByUz3aOojQ4YXQUDA7O0F8PUcoQxadBs',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:02:03'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 16:02:03'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:02:03'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:02:04'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:02:04'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:36'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQxOTc3NiwiZXhwIjoxNjgyNDI2OTc2fQ.gHal1vTwON8ilyfgkL_EvHXinoiJHNeW1DF9sGTV8OQ',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:36'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 16:19:36'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:19:36'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:37'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:38'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:19:43'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:45'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:45'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:51'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQxOTc5MiwiZXhwIjoxNjgyNDI2OTkyfQ.HeQ3O6v2q39RcZRYSqnwJlws_8i-IEq4HBxRZgnpLcM',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:52'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 16:19:52'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:19:52'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:53'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:53'
+}
+{
+  message: 'Request: PUT /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:57'
+}
+{
+  message: 'Patient updated successfully. Email:6c9f1ff8114e509ffde6d4432ad653120a5635d321115e5c299ebe7ae978c937|222811210fea03f7236fae306f57f5ed',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:57'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:59'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:19:59'
+}
+{
+  message: 'Request: PUT /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:07'
+}
+{
+  message: 'Patient updated successfully. Email:6c9f1ff8114e509ffde6d4432ad653120a5635d321115e5c299ebe7ae978c937|222811210fea03f7236fae306f57f5ed',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:08'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:09'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:10'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:12'
+}
+{
+  message: 'Patient record deleted successfully.6c9f1ff8114e509ffde6d4432ad653120a5635d321115e5c299ebe7ae978c937|222811210fea03f7236fae306f57f5ed',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:13'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:13'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:20:13'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:25:38'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:25:41'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:38:43'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:38:46'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:42:27'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:42:30'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:44:03'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:44:06'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:44:59'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:45:01'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:45:37'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyMzEzOCwiZXhwIjoxNjgyNDMwMzM4fQ.fAIgXj6heRCe7hIeep01st1dk5eCrn4E9i2V_EPo6i8',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:45:38'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 11:45:38'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:45:38'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:45:39'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:45:39'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:45:52'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:45:54'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:45:54'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:01'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:03'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:04'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:10'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyMzE3MCwiZXhwIjoxNjgyNDMwMzcwfQ.KaVHl2XmzeyCcIOceW77dYaEEmE7RQ7_dZiavq7Q1J0',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:10'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 11:46:10'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:10'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:11'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:12'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:15'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:17'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:18'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:27'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:37'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:41'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyMzIwMiwiZXhwIjoxNjgyNDMwNDAyfQ.T4KVaSmik1fvR1yBFi8mtz6Hpo23Ol0Z83NJx9MCB_4',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:42'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 11:46:42'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:42'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:43'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:46:43'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:47:00'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:22:04'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:22:07'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:23:06'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyMzU4NiwiZXhwIjoxNjgyNDMwNzg2fQ.FIFQOpgnsTx2-e_sMwRrbv3gl25PIbul-rM9AvA1wYw',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:23:06'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 17:23:06'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 17:23:06'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:23:07'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:23:08'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:27'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:30'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:40'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:43'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:45'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:46'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:59'
+}
+{
+  message: 'Patient record deleted successfully.fcababe62f70abbcd01ee8d0794e4d618b4a17f31a443fab7d75448cefdfa853|e13fed99da7e74bb714cf04fa1ea77fa',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:25:59'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:00'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:00'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:08'
+}
+{
+  message: 'Patient record deleted successfully.e2c498cb7da1bdaa6d64b53d9cc6cd6131d043787d0d4735d91d19cf51832892|4a3c011a815fb601cd1c5642249f32e3',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:08'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:08'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:09'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:09'
+}
+{
+  message: 'Patient record deleted successfully.1a6797933f9a2173b32499f2c4112a0078453d709315af1159e18d5c82d757c8|07a2e4a57af04f8525ce70d56d06bbe1',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:10'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:10'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:10'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:11'
+}
+{
+  message: 'Patient record deleted successfully.c0a5a346ee6ecc5b973c249f3f294d405915aa3369a2391b114a75f7880dc6df|7ccc88e7365a282a94a45f9352e8823a',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:11'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:11'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:12'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:19'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:22'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:37'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '2f74cfee98a68b9465ea6461ffad03a6|df95f6165e4e1f6e3b0130fb2368fd2e',\n" +
+    "  last_name: '5e36c524b5f44a2673abaf858bb7f9e5|7fdb4caac12ef8d4abd74d687f234c65',\n" +
+    "  address: '456982fb681964a03d1afd348741f095|9c138b8cbd601d63457c485e700b2f2a',\n" +
+    "  city: 'eddc1336158d570d07053d52b9ee1051|f2af29bbe5dd416cd30c14e25f374b42',\n" +
+    "  state: '98a14c312dede440bf12b2d35b0a75ce|6465c7801719f38c5b3d911f91816f75',\n" +
+    "  dob: 'a2d68a3b96df16b3a77ae7ce36230cf6|cb94731006a1b8d47e211cc0cd17962e',\n" +
+    "  email: 'edbbb84cd0b62d4b109c288b3ba074521f956c2d8d33df397c5fd27a412c2430|1e444bc96828643b700c4f0cbc6656d6',\n" +
+    "  phone: '20e77ef9fe76a65c2fd677873a4cdbd8|b83872ddd59ac71bdf6275a88085c699',\n" +
+    '  _id: new ObjectId("6447bff64c3f94ab10ffecaf"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:38'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:40'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:26:40'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:04'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:11'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '79c21f7ebaa7117dde1e8cb823102b3e|108edcf3a1306ec3da90e744f3d7dbfa',\n" +
+    "  last_name: 'e8d96392e8d95771ad7e9329161f8f24|994da441f103894651cee44cf6700086',\n" +
+    "  address: '894a6fa1aed81e8afb0266ef4b29cb09|cda0ee4202e3c3199e1ee18af9602a95',\n" +
+    "  city: '6ee0dfe062cc31482cb71569beae05f8|aa428dac9f3d246a6e4ca27f0776c21c',\n" +
+    "  state: '2612af310d4632f53242639679854e00|f20fee99e57823f65d484936453b7873',\n" +
+    "  dob: 'dd0be428ebed2258ef777a41aba3e600|31155597a6895842b8b2c63b06668a02',\n" +
+    "  email: '57e0bbdb890813dbae8eb63bb611e8446cd552eb9e29b90476085e12e42143b1|24a12c6506d4881989353188f2f4dea6',\n" +
+    "  phone: 'd6dd0d1ec02ebe23b30e814c7b0a85b9|1c2f25cf9af06d78c4672f8531189f6f',\n" +
+    '  _id: new ObjectId("6447c0174c3f94ab10ffecb4"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:11'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:14'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:14'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:18'
+}
+{
+  message: 'Patient record deleted successfully.57e0bbdb890813dbae8eb63bb611e8446cd552eb9e29b90476085e12e42143b1|24a12c6506d4881989353188f2f4dea6',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:18'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:18'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:18'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:19'
+}
+{
+  message: 'Patient record deleted successfully.edbbb84cd0b62d4b109c288b3ba074521f956c2d8d33df397c5fd27a412c2430|1e444bc96828643b700c4f0cbc6656d6',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:20'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:20'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:20'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:22'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:23'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:36'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '0d2602e18fbe3e911a32c8c3b67371b6|20ed83b4132a461cb203877927860d45',\n" +
+    "  last_name: '875ada033b34a45e8fbce4a11dc4f38f|215c4d6f5dcc2588e63a79fe7458f2ca',\n" +
+    "  address: 'b3c0c3e8aec88513c6cb42a2ebc250a9|f0b539b234bf6d406102519fc080ed0a',\n" +
+    "  city: '90b96c5261a8cd1931df1ec75a3b0c49|2b743b03aec8ef28a7f578ee2c4a9679',\n" +
+    "  state: 'c1b29b423b64ed9e97189d1a80a6dfa9|47a1333e98cf69e3687547401398600a',\n" +
+    "  dob: '6a5f854a93cd60fe99c6fa069b2885d9|c7e2d741e008bc22e29023d4935c6a22',\n" +
+    "  email: '52d38cdc5c7535e4625b7b91fbce131765c2e2e727c9f8ade26d424e13bd80db|ad6f3654fc243c594343909a0e18bd2e',\n" +
+    "  phone: 'cc601d1e7f1a092a6c1ff617dd43ecee|648535eae55c919083b8b1bdc2862a32',\n" +
+    '  _id: new ObjectId("6447c0304c3f94ab10ffecbf"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:36'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:38'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:39'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:49'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: 'dd86e0e4a6240e70f68f503ff46ed231|65576e21d341594fe8eebb919a632b19',\n" +
+    "  last_name: '18a899a3a5abc2553678836b66fbfeab|b8b9d4d6d8b74b1261993598515d8518',\n" +
+    "  address: '0e41aa20f657779f291e80a6c1c4010f|df0581093ec2afdd5be1f237f037ac74',\n" +
+    "  city: '720acbbb10cc957d6f3bd4fe4b05046a|f57b461003b9e6fcab7eba7f8e2d3638',\n" +
+    "  state: 'f19dc1c6e3323f21cd11427ceca785f6|6e6d726ec495e964b18e3e6eb06ee86f',\n" +
+    "  dob: '97969bfc46c89e1d0a7e7902be306675|3ee24969e794b05bc22d26ca7e17e0e7',\n" +
+    "  email: '04b7d047651c4408705ddf7cfc304a2e373d74ab53867b6b2ac587d1bf16fdbd|f00840f693108c8b1f7fdd56036acf74',\n" +
+    "  phone: 'ab6040b98c8538a4dd52075d953ae63a|133be9fc149eecf22dbab005d2c8542f',\n" +
+    '  _id: new ObjectId("6447c03e4c3f94ab10ffecc3"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:50'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:52'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 17:27:52'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:58:24'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:58:27'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:58:55'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyMzkzNiwiZXhwIjoxNjgyNDMxMTM2fQ.hu50WMJ51jL_ViY1wrKE9KlpHN9dYjpQss_wQxD0nww',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:58:56'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 11:58:56'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:58:56'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:58:57'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:58:57'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:16'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:20'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '034e761b518a7f5a3d046acb3e6cf13e|b5609e18ac029a5d92994da5b8b64ab6',\n" +
+    "  last_name: '59b34ef97a58bc8e3006f40b106ac7ca|258a34a09fcf003ce4a782d687faa847',\n" +
+    "  address: '7117b0726e75bf4700884d6193a5c354|14df8574b727c835e7248170d3f46855',\n" +
+    "  city: '1ff65607ed7aeef15d2ada51b97d2455|8475f488a26863dc9db944e720c134f4',\n" +
+    "  state: 'b776cd6051ce3b5be96dc8270dbf7f12|0198c0c8363c51eff8dc190b0f6e8346',\n" +
+    "  dob: '30b3b002397c19de382d06cd9a47b34b|b3de7083a00c182163641e0b4e537b4c',\n" +
+    "  email: '6f90e865b64a3f195ed26d3f2231a56b7d9d4d32f6b2e8c87ac75ed5a6a7cf32|b4812f419da6371f344be95d2e83b4f4',\n" +
+    "  phone: 'bbfd03a53c38fc3f44eb9b36720b1ac3|19a84efcf717b6e9183b333a7078b51c',\n" +
+    '  _id: new ObjectId("6447c0986c933108b147d0b9"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:21'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:23'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:23'
+}
+{
+  message: 'Request: PUT /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:32'
+}
+{
+  message: 'Patient updated successfully. Email:04b7d047651c4408705ddf7cfc304a2e373d74ab53867b6b2ac587d1bf16fdbd|f00840f693108c8b1f7fdd56036acf74',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:32'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:34'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:34'
+}
+{
+  message: 'Request: DELETE /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:38'
+}
+{
+  message: 'Patient record deleted successfully.04b7d047651c4408705ddf7cfc304a2e373d74ab53867b6b2ac587d1bf16fdbd|f00840f693108c8b1f7fdd56036acf74',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:39'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:39'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 11:59:39'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:01:22'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:01:25'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:01:48'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNDEwOCwiZXhwIjoxNjgyNDMxMzA4fQ.Abwm2NMQRL_N-0GtKLOGUhp8hER44I0RYWTTwrKNebk',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:01:48'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 12:01:48'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:01:48'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:01:49'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:01:49'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:15'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:18'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:42'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNDE2MywiZXhwIjoxNjgyNDMxMzYzfQ.qKVoA89QCsMbtMSRlmjJvbgHXbY6t_50pLk-aR8HJN0',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:43'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 12:02:43'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:02:43'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:44'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:44'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:59'
+}
+{
+  message: 'All inputs are required',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 12:02:59'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '1c92cbc29eb26defe6dbdebc7488b786|a0e8320201506318be5ffc45af8010b1',\n" +
+    "  last_name: 'f9590cc9e7b74d7fda4a977b5caaeb5b|779ce9f586699d6ff63a02452985993c',\n" +
+    "  address: 'b7d5d2935f0cbbff5b02d2d754f9c59e|dcd0dd46cb88a072a4b9bb0821865df4',\n" +
+    "  city: '9c127219d5645a758fc6358809a1b298|ec014bddba39e4a5e5f035e5fdbccac0',\n" +
+    "  state: '67e58fc06a3795c01f4849e2ee56e695|992530da1ec832745781e6d5dccfaf55',\n" +
+    "  dob: '61261d08956e231bd91d5f4d53ada6d5|20f47d04a0285e1a136945f209fb8729',\n" +
+    "  email: '76afad50490765f83c35a1a35b849ee9|b8489efa5e11a1ba0bf092ce66d98af6',\n" +
+    "  phone: '4235ad8bba1e6726f20fe038ada17283|cb54fbc318bb58670d7eb8ebd3813bbb',\n" +
+    '  _id: new ObjectId("6447c173d7e761d73627223c"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:02:59'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:02:59'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:03:06'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:03:14'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '62ce78075f49f6aa1849099bcc3beabb|c2ba46bfe1bbed3d08866e9db538109b',\n" +
+    "  last_name: 'bf30e01946fa45703fd4e0510ef2911f|9f40348418fc2a332bb7b86698cb21b6',\n" +
+    "  address: 'e3cc8e9c1c16b8016ed848c91045822b|31939c435cd0a36fdd909b5df5ad4674',\n" +
+    "  city: '17102021bd3c4d1b455dd860bea02eea|0a61144715ad67635719976e77ede028',\n" +
+    "  state: '577eb9fd38c8592a6abe809faf4a8551|dbd40aa66c92db8eb8cfe42003848155',\n" +
+    "  dob: '0a128cf40afa2b9603f7cea1d776d16f|ec7d65b28399dea3c3de7a501bd07315',\n" +
+    "  email: 'f4297fab243fda76ddeab5a8548c8ecba4f8cafe8fbcd68ba2c7abd6d9106369|ae53f9fa3cdd7185689e808d483172c6',\n" +
+    "  phone: 'e754c5b9ce4c26d31de62967dd1251ea|b19615e65fc22d7662686ea15ce49c0c',\n" +
+    '  _id: new ObjectId("6447c183d7e761d736272240"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:03:15'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:03:17'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:03:17'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:04:09'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:04:10'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:04:37'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:04:40'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:05:02'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0NDMxNTAzODk3MjJjZTcxNTYwNjEzIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNDMwMiwiZXhwIjoxNjgyNDMxNTAyfQ.b_RJ322Zlblmisq6lUo-m8ws-LQ58CQJMK7b1S1W6Hk',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:05:02'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 12:05:02'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:05:02'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:05:03'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:05:04'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:06:12'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:06:15'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:06:43'
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:06:43',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:06:56'
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:06:57',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:09:36'
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:09:36',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:09:44'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:09:47'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:24:34'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:24:37'
+}
+{
+  message: 'database connection failed. exiting now...',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:24:39'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:34:01'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:34:03'
+}
+{
+  message: 'database connection failed. exiting now...',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:34:05'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:34:56'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:34:58'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:35:22'
+}
+{
+  message: 'Invalid Credentials',
+  level: 'debug',
+  timestamp: 'Apr-25-2023 12:35:22'
+}
+{
+  message: 'Request :/register',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:35:32'
+}
+{
+  message: 'user addred successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0N2M5MTQ3NzRmMTgyNzYxYzRmYjkyIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNjEzMywiZXhwIjoxNjgyNDMzMzMzfQ.Dj0D1aUg6-guA5xB5jI-5YIxobPNogrE2kqEYneo8k0',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:35:33'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:39:10'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:39:12'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:40:46'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:40:48'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:42:15'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:42:17'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:42:46'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0N2NhYjcyODRmZTEzNDAzNjg1ZTAyIiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNjU2NywiZXhwIjoxNjgyNDMzNzY3fQ.IjiUzCulUjHDZgTcV8iZd3eDVWX8108TTtzZfQNgeA0',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:42:47'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:44:46'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:44:48'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:45:29'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0N2NiNGVjYzIyM2E0ZTc4Y2Q4ZGI4IiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNjczMCwiZXhwIjoxNjgyNDMzOTMwfQ.LcsOlPawMrkwb0XR9tUQI7cPGECNylKSWjrVr7Zf8ms',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:45:30'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:04'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:06'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:41'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:41'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:48'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0N2NiNGVjYzIyM2E0ZTc4Y2Q4ZGI4IiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNjg2OSwiZXhwIjoxNjgyNDM0MDY5fQ._tRw95p6vqg0EOSkiIoNFGb4KFzKmdBTsGEZJ0LD1Mg',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:49'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:50'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:47:50'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:04'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '02b7ede4b2e80a03b2b599c958887f97|597a3f34908494ccd9fd719349719adc',\n" +
+    "  last_name: 'afecd4bb42b121a8d04e8ac51cc85c6b|786add8ebcfb89b74192da9994e6f1f6',\n" +
+    "  address: 'd131b2bc96a02c4804f6d74769dd878f|5dba59ae1c60f45aefd6fa774c7ac8db',\n" +
+    "  city: 'c966a83814628e9aad54fbc7829f690c|249398d6d6a41024f24828c05a4e876a',\n" +
+    "  state: '1dcdbc0ec33ab3d2747edc14597494e9|aff9499225bec9782336dbb1d8dd8208',\n" +
+    "  dob: '19b971bafd052ed070f606341643a673|69778eb581c253bf253d53de611060e6',\n" +
+    "  email: 'eb91cb0444156153c0e7e02b1d34d4e0331439ef9a11d2f5e18ce3aac00ebb1f|7302942d0b101bf94e7f26d0f3b18baf',\n" +
+    "  phone: '58875247218d19e5b4c31a1d2789033e|44efe533f423e00cfbd52239e0a9152b',\n" +
+    '  _id: new ObjectId("6447cc040e72fded6fb9153e"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:04'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:06'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:07'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:23'
+}
+{
+  message: 'Request: POST /patient',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:27'
+}
+{
+  message: 'Added new patient entry{\n' +
+    "  first_name: '97d74052113a089ea74d96e97696426a|e347e1508a8a9140f5f4faa04053a84a',\n" +
+    "  last_name: 'eaba374b0b147582afb812c5d312f04f|c73813df15db14cc12598995bb06759a',\n" +
+    "  address: '2406bc7a9c587b6dc761b8b21be19d62|3f6def459c6e470b9b0eae057e06a26a',\n" +
+    "  city: '7bb47169a3b251328c1ad730f28708dc|6d5af3e399053978eaaee35db15bab55',\n" +
+    "  state: 'c91807e625e89ce4144a5579d0680dd4|3a82241729c1778b38471f705ba96b9c',\n" +
+    "  dob: '45d72d9bb2153b13e3bda27bf48f6cfb|ad29bfcf6f66d7712065772bcbeac4e4',\n" +
+    "  email: '18daace5ff4523bac8d1a22db5158806ee548f9b8375da012a6e4251794cc086|c44f89a167c27dabdc5abaf123100c82',\n" +
+    "  phone: 'f855608cbe69ccb98f1d696eb84cee25|9f59269a2d82955978e5b712437136c7',\n" +
+    '  _id: new ObjectId("6447cc1b0e72fded6fb91543"),\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:27'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:29'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 12:48:30'
+}
+{
+  message: 'Server Listening On Port 4001',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:47:27'
+}
+{
+  message: 'Successfully connected to database',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:47:29'
+}
+{
+  message: 'Request: /login',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:58:17'
+}
+{
+  message: 'User token created successfully. Token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0N2NiNGVjYzIyM2E0ZTc4Y2Q4ZGI4IiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQzODI5NywiZXhwIjoxNjgyNDQ1NDk3fQ.MrmiThdW0fMwo4xeP7Z64F5mZ13T4e_H17T5b7fURjs',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:58:17'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:58:18'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 15:58:19'
+}
+{
+  message: 'Invalid Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0N2NiNGVjYzIyM2E0ZTc4Y2Q4ZGI4IiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNjg2OSwiZXhwIjoxNjgyNDM0MDY5fQ._tRw95p6vqg0EOSkiIoNFGb4KFzKmdBTsGEZJ0LD1Mg',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:00:53'
+}
+{
+  message: 'Request: GET /patients',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:00:55'
+}
+{
+  message: 'Retrieving all patients record',
+  level: 'info',
+  timestamp: 'Apr-25-2023 16:00:56'
+}

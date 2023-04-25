@@ -1,0 +1,154 @@
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 15:32:35'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 15:38:26'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:02:03'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:19:36'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:19:43'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:19:52'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:45:38'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:45:52'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:01'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:10'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:15'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:27'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:37'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:46:42'
+}
+{
+  message: 'Invalid Token : null',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:47:00'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 17:23:06'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 11:58:56'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:01:48'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:02:43'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:02:59'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:05:02'
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:06:43',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:06:57',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:09:36',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  message: 'database connection failed. exiting now...',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:24:39'
+}
+{
+  message: 'database connection failed. exiting now...',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:34:05'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:42:47'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: 'Apr-25-2023 12:45:30'
+}
+{
+  message: 'Invalid Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ0N2NiNGVjYzIyM2E0ZTc4Y2Q4ZGI4IiwiZW1haWwiOiJrYXNodGVzdDEzQGdtYWlsLmNvbSIsImlhdCI6MTY4MjQyNjg2OSwiZXhwIjoxNjgyNDM0MDY5fQ._tRw95p6vqg0EOSkiIoNFGb4KFzKmdBTsGEZJ0LD1Mg',
+  level: 'error',
+  timestamp: 'Apr-25-2023 16:00:53'
+}

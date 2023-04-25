@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  backend:
+    build:
+      dockerfile: Dockerfile
+      context: ./backend
+    volumes:
+      - /server/node_modules
+      - ./backend:/server
+    environment:
+      - API_PORT=4001
+      - MONGO_URI=<Enter Mongodb connection>
+      - TOKEN_KEY=<Token key string for encryption>
+    expose:
+      - '4001'
+    ports:
+      - '4001:4001'
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    volumes:
+      - /client/node_modules
+      - ./frontend:/client
+    environment:
+      - REACT_APP_API_URL=http://localhost:4001
+    expose:
+      - '3000'
+    ports:
+      - '3000:3000'
